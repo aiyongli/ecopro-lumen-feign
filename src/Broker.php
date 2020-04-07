@@ -8,7 +8,7 @@ use Ecopro\Http\Concerns\Base;
 /**
  * 内部携带基本认证的远程请求
  */
-class Builder
+class Broker
 {
     use Base, Growell;
 
